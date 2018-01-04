@@ -1,0 +1,25 @@
+p{
+    color:blue;
+}
+
+.mainbg{
+    background: #bce8f1;
+    border-radius: 4px;
+    margin-top:1%;
+    padding: 1px;
+}
+
+body{
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+hr{
+    border-color:#636A6F;
+    margin-top:-2px;
+    width: 500px;
+}
+
+table{
+    background: #fff5d1;
+
+}
